@@ -86,3 +86,7 @@
 .-rotate-360 {
   @apply rotate-[-360deg]
 }
+
+.bg-ic {
+  background-image: url(/card-6.svg);
+}
